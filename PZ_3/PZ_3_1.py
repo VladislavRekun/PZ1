@@ -11,5 +11,5 @@ while True:
 x = (len(str(number)) == len(set(str(number))))
 
 # ответ первой задачи
-print("Ответ первой хадачи")
+print("Ответ первой задачи")
 print(x)

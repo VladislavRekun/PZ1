@@ -3,7 +3,7 @@
 while True:
     try:
         n = int(input("Введите целое число n: "))
-        a = int(input("n = "))
+        a = int(input("a = "))
         sum = 0
         term = 0
     except ValueError:

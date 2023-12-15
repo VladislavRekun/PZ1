@@ -5,7 +5,6 @@ while True:
     try:
         n = int(input("Введите целое число n: "))
         x = float(input("Введите вещественное число x (|x| < 1): "))
-        a = int(input("n = "))
         sum = 0
         term = 0
     except ValueError:
