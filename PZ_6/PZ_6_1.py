@@ -11,8 +11,9 @@ def find_sum_except_range(numbers, k, l):
 
     return sum_except_range
 
-# Пример использования
+
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+print(numbers)
 k = int(input("Значение K: "))
 l = int(input("Значение L: "))
 result = find_sum_except_range(numbers, k, l)

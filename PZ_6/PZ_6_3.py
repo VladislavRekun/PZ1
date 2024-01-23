@@ -20,7 +20,7 @@ def find_closest_point(A, x, y):
     return closest_point
 
 
-# Пример использования функции
+
 points = [(1, 2), (3, 4), (5, 6), (7, 8)]
 print(points)
 target_x = int(input("Ввести значение Х: "))

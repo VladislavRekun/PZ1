@@ -12,8 +12,8 @@ def check_permutation(lst):
 
     return 0
 
-# Пример использования функции
-input_list = [4, 1, 3, 2, 5]
+
+input_list = [1, 3, 4, 5]
 result = check_permutation(input_list)
 print(input_list)
 print(result)
